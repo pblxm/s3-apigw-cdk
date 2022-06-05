@@ -1,7 +1,6 @@
-## Instalacion
+# Installation
 
-Hacer `npm install` en el directorio principal y en scripts/write_file
+Run `npm install` in the main directory and inside scripts/write_file
 
-Desde la consola hay que crear un email verificado en SES y un numero de telefono en SNS
-
+You need to have a verified mail in SES and a verified phone number in SNS in order for it to work
 
